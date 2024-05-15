@@ -1,1 +1,1 @@
-console.console("GAME START");
+console.log("GAME START");
